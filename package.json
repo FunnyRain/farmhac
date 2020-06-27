@@ -1,0 +1,18 @@
+{
+  "name": "farmhac",
+  "version": "1.0.0",
+  "description": "script for farming cards and hours steam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "FunnyRain",
+  "license": "ISC",
+  "devDependencies": {
+    "steam-user": "^4.16.2"
+  },
+  "dependencies": {
+    "steam-totp": "^2.1.1"
+  }
+}
